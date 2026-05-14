@@ -1,0 +1,3 @@
+INFO System Started
+ERROR Disk Failure
+WARNING Battery Low

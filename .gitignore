@@ -1,0 +1,8 @@
+hadoop-3.3.6/
+hadoop-3.3.6.tar.gz
+classes/
+output/
+logoutput/
+weatheroutput/
+*.jar
+*.class
