@@ -1,8 +1,13 @@
 hadoop-3.3.6/
 hadoop-3.3.6.tar.gz
-classes/
+
+build/
 output/
-logoutput/
-weatheroutput/
-*.jar
+
 *.class
+*.jar
+*.crc
+
+_SUCCESS
+
+.DS_Store
